@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET in Azure!</h1>
+        <h1>ASP.NET in Azure and Git!</h1>
         <p class="lead">This is a simple app that we’ve built that demonstrates how to deploy a .NET app to Azure App Service.</p>
     </div>
 
